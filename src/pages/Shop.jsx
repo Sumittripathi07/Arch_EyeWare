@@ -1,6 +1,6 @@
 import { Col, Container, Row } from "react-bootstrap";
 import FilterSelect from "../components/FilterSelect";
-// import SearchBar from "../components/SeachBar/SearchBar";
+import SearchBar from "../components/SeachBar/SearchBar";
 import { Fragment, useState } from "react";
 import { products } from "../utils/products";
 import ShopList from "../components/ShopList";
@@ -23,7 +23,7 @@ const Shop = () => {
               <FilterSelect setFilterList={setFilterList} />
             </Col>
             <Col md={8}>
-              {/* <SearchBar setFilterList={setFilterList} /> */}
+              <SearchBar setFilterList={setFilterList} />
             </Col>
           </Row>
         </Container>

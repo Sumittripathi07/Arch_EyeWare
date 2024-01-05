@@ -236,7 +236,7 @@ export const products = [
     id: "01",
     productName: "Stone and Beam Westview",
     imgUrl: BDimg1,
-    category: "women",
+    category: "sofa",
     price: 599,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
@@ -254,7 +254,7 @@ export const products = [
   {
     id: "02",
     productName: "Rivet Bigelow Modern ",
-    imgUrl: BDimg1,
+    imgUrl: BDimg2,
     category: "sofa",
     price: 253,
     shortDesc:
