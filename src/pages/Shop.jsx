@@ -9,7 +9,7 @@ import useWindowScrollToTop from "../hooks/useWindowScrollToTop";
 
 const Shop = () => {
   const [filterList, setFilterList] = useState(
-    products.filter((item) => item.category === "sofa")
+    products.filter((item) => item.category === "all")
   );
   useWindowScrollToTop();
 
