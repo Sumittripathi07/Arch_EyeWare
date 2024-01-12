@@ -1,5 +1,4 @@
 import watch04 from "../Images/watch-04.jpg";
-
 import wireless01 from "../Images/wireless-01.png";
 import wireless02 from "../Images/wireless-02.png";
 import wireless03 from "../Images/wireless-03.png";

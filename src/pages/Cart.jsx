@@ -10,17 +10,12 @@ import {
 const Cart = () => {
   const { cartList } = useSelector((state) => state.cart);
   const dispatch = useDispatch();
-  // middlware to localStorage
   const totalPrice = cartList.reduce(
     (price, item) => price + item.qty * item.price,
     0
   );
   useEffect(() => {
     window.scrollTo(0, 0);
-    // if(CartItem.length ===0) {
-    //   const storedCart = localStorage.getItem("cartItem");
-    //   setCartItem(JSON.parse(storedCart));
-    // }
   }, []);
   return (
     <section className="cart-items">
