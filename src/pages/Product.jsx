@@ -37,7 +37,7 @@ const Product = () => {
       <ProductReviews selectedProduct={selectedProduct} />
       <section className="related-products">
         <Container>
-          <h3>You might also like</h3>
+          <h3>You might also like.</h3>
         </Container>
         <ShopList productItems={relatedProducts} />
       </section>
