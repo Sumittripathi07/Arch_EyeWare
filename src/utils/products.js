@@ -1,9 +1,3 @@
-import watch04 from "../Images/watch-04.jpg";
-import wireless01 from "../Images/wireless-01.png";
-import wireless02 from "../Images/wireless-02.png";
-import wireless03 from "../Images/wireless-03.png";
-import wireless04 from "../Images/wireless-04.png";
-
 import img1 from "../Images/img1.jpg";
 import img2 from "../Images/img2.jpg";
 import img3 from "../Images/img3.jpg";
@@ -19,6 +13,11 @@ import img12 from "../Images/img12.jpg";
 import img13 from "../Images/img13.jpg";
 import img14 from "../Images/img14.jpg";
 import img15 from "../Images/img15.jpg";
+import img16 from "../Images/img16.jpg";
+import img17 from "../Images/img17.jpg";
+import img18 from "../Images/img18.jpg";
+import img19 from "../Images/img19.jpg";
+import img20 from "../Images/img20.jpg";
 
 import BDimg1 from "../Images/BDimg1.jpg";
 import BDimg2 from "../Images/BDimg2.jpg";
@@ -695,7 +694,7 @@ export const products = [
   {
     id: "19",
     productName: "Apple Watch",
-    imgUrl: watch04,
+    imgUrl: img16,
     category: "all",
     price: 399,
     shortDesc:
@@ -718,7 +717,7 @@ export const products = [
   {
     id: "20",
     productName: "Beat Studio Wireless",
-    imgUrl: wireless01,
+    imgUrl: img17,
     category: "all",
     price: 199,
     shortDesc:
@@ -741,7 +740,7 @@ export const products = [
   {
     id: "21",
     productName: "Beat EP Headphones",
-    imgUrl: wireless03,
+    imgUrl: img18,
     category: "all",
     price: 199,
     shortDesc:
@@ -763,7 +762,7 @@ export const products = [
   {
     id: "22",
     productName: "Black Headphones",
-    imgUrl: wireless02,
+    imgUrl: img19,
     category: "all",
     price: 169,
     shortDesc:
@@ -785,7 +784,7 @@ export const products = [
   {
     id: "23",
     productName: "Bluetooth Headphones",
-    imgUrl: wireless04,
+    imgUrl: img20,
     category: "all",
     price: 139,
     shortDesc:
