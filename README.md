@@ -2,4 +2,4 @@
 
 Get your EyeWare at your Doorstep
 
-## Opening Soon...
+<!-- ## Opening Soon... -->
