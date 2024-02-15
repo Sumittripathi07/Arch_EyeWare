@@ -1,0 +1,512 @@
+[
+  {
+    "id": "01",
+    "productName": "Stone and Beam Westview",
+    "category": "all",
+    "price": 599,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.7,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.5
+  },
+  {
+    "id": "02",
+    "productName": "Rivet Bigelow Modern ",
+    "category": "all",
+    "price": 253,
+    "discount": 20,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.8,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "03",
+    "productName": "Hooper",
+    "category": "all",
+    "price": 89,
+    "discount": 15,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "26",
+    "productName": "Helmar",
+    "category": "all",
+    "price": 112,
+    "discount": 35,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "04",
+    "productName": "Polarized Sports Sunglasses",
+    "category": "all",
+    "price": 599,
+    "discount": 10,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.8
+  },
+  {
+    "id": "05",
+    "productName": "Sunglasses Organizer Box Men Women Eyewear",
+    "category": "all",
+    "price": 799,
+    "discount": 5,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.8
+  },
+
+  {
+    "id": "06",
+    "productName": "Fllufy Sheep glass",
+    "category": "all",
+    "price": 163,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "07",
+    "productName": "Sakarias",
+    "category": "all",
+    "price": 99,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.7
+  },
+
+  {
+    "id": "27",
+    "productName": "Modern Look",
+    "category": "all",
+    "price": 173,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.7
+  },
+
+  {
+    "id": "08",
+    "productName": "Baltsar",
+    "category": "all",
+    "price": 89,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.7
+  },
+
+  {
+    "id": "09",
+    "productName": "Helmar",
+    "category": "all",
+    "price": 112,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.7
+  },
+
+  {
+    "id": "10",
+    "productName": "Arch's Special Protector",
+    "category": "all",
+    "price": 799,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.8
+  },
+  {
+    "id": "25",
+    "productName": "Sakarias",
+    "category": "all",
+    "price": 99,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.7
+  },
+  {
+    "id": "11",
+    "productName": "New Look glass",
+    "category": "all",
+    "price": 799,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.8
+  },
+
+  {
+    "id": "12",
+    "productName": "Boomer",
+    "category": "all",
+    "price": 599,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.8
+  },
+
+  {
+    "id": "13",
+    "productName": "Spectis",
+    "category": "all",
+    "price": 799,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.8
+  },
+
+  {
+    "id": "14",
+    "productName": "Sunglass for 8-12 age",
+    "category": "all",
+    "price": 899,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.8
+  },
+
+  {
+    "id": "15",
+    "productName": "Galaxy Glass",
+    "category": "all",
+    "price": 699,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.8
+  },
+
+  {
+    "id": "16",
+    "productName": "Rolex",
+    "category": "all",
+    "price": 299,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.8
+  },
+
+  {
+    "id": "17",
+    "productName": "Timex Easy",
+    "category": "all",
+    "price": 299,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.8
+  },
+
+  {
+    "id": "18",
+    "productName": "Rolex",
+    "category": "all",
+    "price": 299,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.8
+  },
+
+  {
+    "id": "19",
+    "productName": "Boomer Z series",
+    "category": "all",
+    "price": 399,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.8
+  },
+
+  {
+    "id": "20",
+    "productName": "Studio Wire",
+    "category": "all",
+    "price": 199,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.8
+  },
+
+  {
+    "id": "21",
+    "productName": "EP",
+    "category": "all",
+    "price": 199,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.8
+  },
+  {
+    "id": "22",
+    "productName": "Black Ware",
+    "category": "all",
+    "price": 169,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.8
+  },
+  {
+    "id": "23",
+    "productName": "Voyage",
+    "category": "all",
+    "price": 139,
+    "shortDesc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "rating": 4.9,
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "avgRating": 4.8
+  }
+]

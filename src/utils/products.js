@@ -30,25 +30,26 @@ export const SliderData = [
   {
     id: 1,
     title: "50% Off For Your First Shopping",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+    desc: "Grab the deal now!!!",
+
     cover: img1,
   },
   {
     id: 2,
     title: "50% Off For Your First Shopping",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+    desc: "Grab the deal now!!!",
     cover: img2,
   },
   {
     id: 3,
     title: "50% Off For Your First Shopping",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+    desc: "Grab the deal now!!!",
     cover: img3,
   },
   {
     id: 4,
     title: "50% Off For Your First Shopping",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
+    desc: "Grab the deal now!!!",
     cover: img4,
   },
 ];
@@ -57,25 +58,25 @@ export const serviceData = [
   {
     icon: <ion-icon name="car"></ion-icon>,
     title: "Free Shipping",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "Free and 2 Day Delivey!",
     bg: "#fdefe6",
   },
   {
     icon: <ion-icon name="card"></ion-icon>,
     title: "Safe Payment",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "Safe payment for you.",
     bg: "#ceebe9",
   },
   {
     icon: <ion-icon name="shield-half-outline"></ion-icon>,
     title: "Secure Payment",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "Fast Payment mode. ",
     bg: "#e2f2b2",
   },
   {
     icon: <ion-icon name="headset"></ion-icon>,
     title: " Back Guarantee",
-    subtitle: "Lorem ipsum dolor sit amet.",
+    subtitle: "Best Service Record",
     bg: "#d6e5fb",
   },
 ];
@@ -124,7 +125,7 @@ export const discoutProducts = [
   },
   {
     id: "03",
-    productName: "Baltsar Chair",
+    productName: "Hooper",
     imgUrl: BDimg3,
     category: "all",
     price: 89,
@@ -147,7 +148,7 @@ export const discoutProducts = [
   },
   {
     id: "26",
-    productName: "Helmar Chair",
+    productName: "Helmar",
     imgUrl: BDimg4,
     category: "all",
     price: 112,
@@ -170,7 +171,7 @@ export const discoutProducts = [
   },
   {
     id: "04",
-    productName: "Realme 8",
+    productName: "Polarized Sports Sunglasses",
     imgUrl: BDimg5,
     category: "all",
     price: 599,
@@ -193,7 +194,7 @@ export const discoutProducts = [
   },
   {
     id: "05",
-    productName: "One Plus Nord",
+    productName: "Sunglasses Organizer Box Men Women Eyewear",
     imgUrl: BDimg6,
     category: "all",
     price: 799,
@@ -235,13 +236,13 @@ export const products = [
     ],
     avgRating: 4.5,
   },
-
   {
     id: "02",
     productName: "Rivet Bigelow Modern ",
     imgUrl: BDimg2,
     category: "all",
     price: 253,
+    discount: 20,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
@@ -258,15 +259,15 @@ export const products = [
     ],
     avgRating: 4.7,
   },
-
   {
     id: "03",
-    productName: "Amazon Brand Modern Sofa",
+    productName: "Hooper",
     imgUrl: BDimg3,
     category: "all",
-    price: 173,
+    price: 89,
+    discount: 15,
     shortDesc:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo!",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
     reviews: [
@@ -283,21 +284,22 @@ export const products = [
   },
   {
     id: "26",
-    productName: "Rivet Bigelow Modern ",
+    productName: "Helmar",
     imgUrl: BDimg4,
     category: "all",
-    price: 253,
+    price: 112,
+    discount: 35,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
     reviews: [
       {
-        rating: 4.8,
+        rating: 4.6,
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
       },
       {
-        rating: 4.8,
+        rating: 4.9,
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
       },
     ],
@@ -305,17 +307,18 @@ export const products = [
   },
   {
     id: "04",
-    productName: "Fllufy Sheep Sofa",
+    productName: "Polarized Sports Sunglasses",
     imgUrl: BDimg5,
     category: "all",
-    price: 163,
+    price: 599,
+    discount: 10,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
     reviews: [
       {
-        rating: 4.6,
+        rating: 4.8,
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
       },
       {
@@ -323,22 +326,22 @@ export const products = [
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
       },
     ],
-    avgRating: 4.7,
+    avgRating: 4.8,
   },
-
   {
     id: "05",
-    productName: "Faux Velvet Sofa",
+    productName: "Sunglasses Organizer Box Men Women Eyewear",
     imgUrl: BDimg6,
     category: "all",
-    price: 163,
+    price: 799,
+    discount: 5,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio nostrum accusantium iste, voluptas cumque provident! Consequatur officiis animi rem tempore voluptate cumque hic similique aperiam ut consectetur distinctio repudiandae quia quam quos, quas illo, iusto, necessitatibus odio veniam exercitationem quis voluptatibus debitis laboriosam! Esse debitis obcaecati blanditiis at impedit quibusdam!",
     reviews: [
       {
-        rating: 4.6,
+        rating: 4.8,
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
       },
       {
@@ -346,12 +349,12 @@ export const products = [
         text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
       },
     ],
-    avgRating: 4.7,
+    avgRating: 4.8,
   },
 
   {
     id: "06",
-    productName: "Fllufy Sheep Sofa",
+    productName: "Fllufy Sheep glass",
     imgUrl: img1,
     category: "all",
     price: 163,
@@ -373,7 +376,7 @@ export const products = [
   },
   {
     id: "07",
-    productName: "Sakarias Armchair",
+    productName: "Sakarias",
     imgUrl: img2,
     category: "all",
     price: 99,
@@ -396,7 +399,7 @@ export const products = [
 
   {
     id: "27",
-    productName: "Modern Arm Sofa",
+    productName: "Modern Look",
     imgUrl: img3,
     category: "all",
     price: 173,
@@ -419,7 +422,7 @@ export const products = [
 
   {
     id: "08",
-    productName: "Baltsar Chair",
+    productName: "Baltsar",
     imgUrl: img4,
     category: "all",
     price: 89,
@@ -442,7 +445,7 @@ export const products = [
 
   {
     id: "09",
-    productName: "Helmar Chair",
+    productName: "Helmar",
     imgUrl: img5,
     category: "all",
     price: 112,
@@ -465,7 +468,7 @@ export const products = [
 
   {
     id: "10",
-    productName: "Apple iPhone 12 Pro",
+    productName: "Arch's Special Protector",
     imgUrl: img6,
     category: "all",
     price: 799,
@@ -487,7 +490,7 @@ export const products = [
   },
   {
     id: "25",
-    productName: "Sakarias Armchair",
+    productName: "Sakarias",
     imgUrl: img7,
     category: "all",
     price: 99,
@@ -509,7 +512,7 @@ export const products = [
   },
   {
     id: "11",
-    productName: "Apple iPhone 12 Max",
+    productName: "New Look glass",
     imgUrl: img8,
     category: "all",
     price: 799,
@@ -532,7 +535,7 @@ export const products = [
 
   {
     id: "12",
-    productName: "Realme 8",
+    productName: "Boomer",
     imgUrl: img9,
     category: "all",
     price: 599,
@@ -555,7 +558,7 @@ export const products = [
 
   {
     id: "13",
-    productName: "One Plus Nord",
+    productName: "Spectis",
     imgUrl: img10,
     category: "all",
     price: 799,
@@ -578,7 +581,7 @@ export const products = [
 
   {
     id: "14",
-    productName: "Apple iPhone 13 Pro",
+    productName: "Sunglass for 8-12 age",
     imgUrl: img11,
     category: "all",
     price: 899,
@@ -601,7 +604,7 @@ export const products = [
 
   {
     id: "15",
-    productName: "Samsung Galaxy S22",
+    productName: "Galaxy Glass",
     imgUrl: img12,
     category: "all",
     price: 699,
@@ -624,7 +627,7 @@ export const products = [
 
   {
     id: "16",
-    productName: "Rolex Watch",
+    productName: "Rolex",
     imgUrl: img13,
     category: "all",
     price: 299,
@@ -647,7 +650,7 @@ export const products = [
 
   {
     id: "17",
-    productName: "Timex Easy Reader Watch",
+    productName: "Timex Easy",
     imgUrl: img14,
     category: "all",
     price: 299,
@@ -670,7 +673,7 @@ export const products = [
 
   {
     id: "18",
-    productName: "Rolex Watch",
+    productName: "Rolex",
     imgUrl: img15,
     category: "all",
     price: 299,
@@ -693,7 +696,7 @@ export const products = [
 
   {
     id: "19",
-    productName: "Apple Watch",
+    productName: "Boomer Z series",
     imgUrl: img16,
     category: "all",
     price: 399,
@@ -716,7 +719,7 @@ export const products = [
 
   {
     id: "20",
-    productName: "Beat Studio Wireless",
+    productName: "Studio Wire",
     imgUrl: img17,
     category: "all",
     price: 199,
@@ -739,7 +742,7 @@ export const products = [
 
   {
     id: "21",
-    productName: "Beat EP Headphones",
+    productName: "EP",
     imgUrl: img18,
     category: "all",
     price: 199,
@@ -761,7 +764,7 @@ export const products = [
   },
   {
     id: "22",
-    productName: "Black Headphones",
+    productName: "Black Ware",
     imgUrl: img19,
     category: "all",
     price: 169,
@@ -783,7 +786,7 @@ export const products = [
   },
   {
     id: "23",
-    productName: "Bluetooth Headphones",
+    productName: "Voyage",
     imgUrl: img20,
     category: "all",
     price: 139,
