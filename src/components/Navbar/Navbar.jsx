@@ -27,7 +27,7 @@ const NavBar = () => {
         <Link to="/" className="deco-none">
           <Navbar.Brand to="/">
             <ion-icon name="bag"></ion-icon>
-            <h1 className="logo">Arch EyeWare</h1>
+            <h1 className="logo">EyeWare</h1>
           </Navbar.Brand>
         </Link>
         {/* Media cart and toggle */}

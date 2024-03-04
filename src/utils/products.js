@@ -224,6 +224,7 @@ export const products = [
     imgUrl: BDimg1,
     category: "all",
     price: 599,
+    discount: 20,
     shortDesc:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure quas illo voluptates labore tempore!",
     description:

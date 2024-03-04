@@ -10,9 +10,9 @@ const Footer = () => {
           <Col md={3} sm={5} className="box">
             <div className="logo">
               <ion-icon name="bag"></ion-icon>
-              <h1>Arch EyeWare</h1>
+              <h1>EyeWare</h1>
             </div>
-            <p>Get your favourate eye at MultiMart at very hood price</p>
+            <p>Get your favourate eye glasses at very hood price</p>
           </Col>
           <Col md={3} sm={5} className="box">
             <h2>About Us</h2>
@@ -34,7 +34,7 @@ const Footer = () => {
             <h2>Contact Us</h2>
             <ul>
               <li>999 Ambernath West, Mumbai, India 421501</li>
-              <li>Email: chai_pi_lo_friends@gmail.com</li>
+              <li>Email: archanajaiswar11@gmail.com</li>
               <li>Phone: +91 8989898989</li>
             </ul>
           </Col>

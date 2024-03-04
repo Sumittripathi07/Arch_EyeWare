@@ -12,7 +12,7 @@ const Regester = () => {
                 className="my-5 display-5 fw-bold ls-tight"
                 style={{ color: "hsl(218, 81%, 95%)" }}
               >
-                Get your need
+                Get your EyeWare
                 <br />
                 <span style={{ color: "hsl(218, 81%, 75%)" }}>
                   At your doorstep.
