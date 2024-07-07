@@ -18,6 +18,7 @@ const Section = ({ title, bgColor, productItems }) => {
               />
             );
           })}
+          
         </Row>
       </Container>
     </section>
