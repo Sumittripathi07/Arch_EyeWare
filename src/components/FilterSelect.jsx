@@ -9,6 +9,7 @@ const options = [
   { value: "wireless", label: "Wireless" },
 ];
 
+
 const customStyles = {
   control: (provided) => ({
     ...provided,
