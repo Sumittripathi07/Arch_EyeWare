@@ -26,5 +26,5 @@ const SliderHome = () => {
         </Container>
       </section>
   )
-}
+} 
 export default SliderHome
